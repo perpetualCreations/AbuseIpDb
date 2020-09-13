@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="abuseipdb",
+    name="abuseipdb-pcforked",
     version="2.0.2", # According to the original repo, the last version was 2.0.1, I swept everything since into 2.0.2
     author="",
     author_email="",
