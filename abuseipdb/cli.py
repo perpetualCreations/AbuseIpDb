@@ -1,10 +1,4 @@
-import argparse
-import json
-import os
-import pwd
-import re
-import socket
-import stat
+import argparse, json, os, re, socket, stat, pwd
 from configparser import ConfigParser, NoOptionError
 
 from abuseipdb import AbuseIpDb
